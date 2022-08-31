@@ -141,6 +141,8 @@ list_note.itemClicked.connect(show_note)
 
 list_note.addItems(notes)
 
+#пасхалка
+
 main_win.setLayout(layout_main)
 main_win.show()
 app.exec_()
